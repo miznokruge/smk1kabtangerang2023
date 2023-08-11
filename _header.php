@@ -1,3 +1,6 @@
+<?php
+date_default_timezone_set("Asia/Jakarta");
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -6,7 +9,7 @@
     <meta name="description" content="Academic - Education, University and College Template" />
     <meta name="author" content="potenzaglobalsolutions.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>Academic - Education, University and College Template</title>
+    <title>SMK NEGRI 1 KAB TANGERANG</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favicon.ico" />
@@ -20,6 +23,11 @@
     <link rel="stylesheet" href="css/bootstrap/bootstrap.min.css" />
 
     <!-- Page CSS Implementing Plugins (Remove the plugin CSS here if site does not use that feature)-->
+    <link rel="stylesheet" href="css/select2/select2.css" />
+    <link rel="stylesheet" href="css/owl-carousel/owl.carousel.min.css" />
+    <link rel="stylesheet" href="css/magnific-popup/magnific-popup.css" />
+    <link rel="stylesheet" href="css/swiper/swiper.min.css" />
+    <link rel="stylesheet" href="css/animate/animate.min.css"/>
 
     <!-- Template Style -->
     <link rel="stylesheet" href="css/style.css" />
@@ -27,7 +35,7 @@
 
   <body>
 
-   <!--=================================
+    <!--=================================
     Header -->
     <header class="header header-sticky">
       <div class="topbar bg-dark py-3 d-none d-lg-flex">
@@ -42,7 +50,7 @@
                   <a class="text-white" href="mailto:gethelp@university.com"><i class="fas fa-phone-alt mr-2"></i><span>Call</span> +1 (818) 89 89 567</a>
                 </div>
                 <div class="mr-3 d-inline-block">
-                  <a class="text-white" href="mailto:gethelp@university.com"><i class="far fa-clock mr-2"></i><span>Opening:</span> 10:00am - 5:00pm</a>
+                  <a class="text-white" href="mailto:gethelp@university.com"><?php echo date("Y-m-d H:i:s")?></a>
                 </div>
                 <div class="social-icon">
                   <ul class="social-icon">
@@ -73,7 +81,7 @@
               <div class="d-lg-flex align-items-center">
                 <!-- logo -->
                 <a class="navbar-brand logo" href="index-2.html">
-                  <img src="images/logo.svg" alt="Logo">
+                  <img src="images/logo.png" alt="Logo">
                 </a>
                 <nav class="navbar navbar-expand-lg">
 
@@ -86,16 +94,19 @@
                 <!-- Navbar START -->
                 <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                   <ul class="navbar-nav">
-                    <li class="nav-item dropdown">
+                    <li class="nav-item dropdown active">
                       <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home<i class="fas fa-chevron-down fa-xs"></i></a>
                       <!-- Dropdown Menu -->
                         <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="index-2.html">Home 01</a></li>
+                          <li class="active"><a class="dropdown-item" href="index.php">Home 01</a></li>
                           <li><a class="dropdown-item" href="index-02.html">Home 02</a></li>
                           <li><a class="dropdown-item" href="index-03.html">Home 03</a></li>
                         </ul>
                     </li>
-                    <li class="nav-item dropdown active">
+                    <li class="nav-item">
+                      <a class="nav-link" href="about.php">About Us</a>
+                    </li>
+                    <li class="nav-item dropdown">
                       <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Pages<i class="fas fa-chevron-down fa-xs"></i>
                       </a>
                       <!-- Dropdown Menu -->
@@ -106,7 +117,7 @@
                         <li><a class="dropdown-item" href="gallery.html">Gallery</a></li>
                         <li><a class="dropdown-item" href="pricing.html">Pricing</a></li>
                         <li><a class="dropdown-item" href="faq.html">Faq</a></li>
-                        <li class="active"><a class="dropdown-item" href="sign-in.html">Sign In</a></li>
+                        <li><a class="dropdown-item" href="sign-in.html">Sign In</a></li>
                         <li><a class="dropdown-item" href="sign-up.html">Sign Up</a></li>
                         <li><a class="dropdown-item" href="error-page.html">Error Page</a></li>
                         <li><a class="dropdown-item" href="coming-soon.html">Coming Soon</a></li>
@@ -156,7 +167,7 @@
                       <div class="search-box not-click">
                         <form action="http://themes.potenzaglobalsolutions.com/html/academic/search.html" method="get">
                           <input type="text" class="not-click form-control" name="search" placeholder="Search..">
-                          <a href="#" class="search-button"> <i class="fa fa-search not-click"></i></a>
+                          <a class="search-button" href="#"> <i class="fa fa-search not-click"></i></a>
                         </form>
                       </div>
                     </div>
@@ -172,176 +183,3 @@
     </header>
     <!--=================================
     Header -->
-
-    <!--=================================
-    inner-header -->
-    <section class="inner-banner bg-overlay-black-70 bg-holder" style="background-image: url('images/bg/04.jpg');">
-      <div class="container">
-        <div class="row d-flex justify-content-center">
-          <div class="col-md-12">
-            <div class="text-center">
-              <h1 class="text-white">Sign In</h1>
-            </div>
-            <div class="d-flex justify-content-center ">
-              <ol class="breadcrumb mb-0 p-0">
-              <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
-              <li class="breadcrumb-item active"><span>Sign In</span></li>
-            </ol>
-            </div>
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--=================================
-    inner-header -->
-
-    <!--=================================
-    Login -->
-    <section class="space-ptb">
-      <div class="container">
-        <div class="row justify-content-center">
-          <div class="col-xl-8 text-center">
-            <div class="section-title">
-              <h2>Sign In To Your Account</h2>
-              <p>Sign in with email id or social media</p>
-            </div>
-          </div>
-        </div>
-        <div class="row justify-content-center">
-          <div class="col-lg-7 mb-2">
-            <form class="login bg-white shadow p-5">
-              <div class="form-group">
-                <label>Email address</label>
-                <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Enter email">
-                <span class="focus-border"></span>
-              </div>
-              <div class="form-group">
-                <label>Password</label>
-                <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Password">
-                <span class="focus-border"></span>
-              </div>
-              <div class="form-group custom-control custom-checkbox mr-sm-2">
-                <input type="checkbox" class="custom-control-input" id="customControlAutosizing">
-                <label class="custom-control-label" for="customControlAutosizing">Remember my preference</label>
-              </div>
-              <button type="submit" class="btn btn-primary">Login</button>
-              <p class="mt-2 mb-0">Don't have an account? <a href="sign-up.html"> Create one here</a></p>
-              <div class="login-social-media mt-4 text-center">
-                <div class="d-block">
-                  <h5 class="mb-4 font-weight-bold">Sign in with:</h5>
-                  <a class="btn facebook-bg social-bg-hover mb-2 mb-sm-0" href="#"><span><i class="fab fa-facebook-f pr-1"></i>Facebook</span></a>
-                  <a class="btn twitter-bg social-bg-hover mb-2 mb-sm-0" href="#"><span><i class="fab fa-twitter pr-1"></i>Twitter</span></a>
-                  <a class="btn google-bg social-bg-hover mb-2 mb-sm-0" href="#"><span><i class="fab fa-google pr-1"></i>Google</span></a>
-                </div>
-              </div>
-            </form>
-
-          </div>
-        </div>
-      </div>
-    </section>
-    <!--=================================
-    Login -->
-
-    <!--=================================
-    Footer-->
-    <footer class="space-pt bg-overlay-black-90 bg-holder footer" style="background-image: url(images/bg/03.jpg);">
-      <div class="container">
-        <div class="row pb-5 pb-lg-6 mb-lg-3">
-          <div class="col-sm-6 col-lg-4 mb-4 mb-lg-0 pr-lg-5">
-            <a href="index-2.html"><img class="img-fluid mb-3 footer-logo" src="images/logo-light.svg" alt=""></a>
-            <p class="text-white">The best way is to develop and follow a plan. Start with your goals in mind and then work backward to develop the plan.</p>
-            <h5 class="text-white mb-2 mb-sm-4">Follow Us</h5>
-            <div class="social-icon social-icon-style-02">
-              <ul>
-                <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
-                <li><a href="#"><i class="fab fa-twitter"></i></a></li>
-                <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
-                <li><a href="#"><i class="fab fa-instagram"></i></a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-2 mb-4 mb-lg-0">
-            <h5 class="text-white mb-2 mb-sm-4">Category</h5>
-            <div class="footer-link">
-              <ul class="list-unstyled mb-0">
-                <li><a class="text-white" href="#">Economics</a></li>
-                <li><a class="text-white" href="#">Natural</a></li>
-                <li><a class="text-white" href="#">Architecture</a></li>
-                <li><a class="text-white" href="#">Electrical</a></li>
-                <li><a class="text-white" href="#">Biological</a></li>
-                <li><a class="text-white" href="#">Psychology</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-2 mb-4 mb-sm-0">
-            <h5 class="text-white mb-2 mb-sm-4">Useful Link</h5>
-            <div class="footer-link">
-              <ul class="list-unstyled mb-0">
-                <li><a class="text-white" href="index-2.html">Home</a></li>
-                <li><a class="text-white" href="about-us.html">About</a></li>
-                <li><a class="text-white" href="course.html">Course</a></li>
-                <li><a class="text-white" href="privacy-policy.html">Privacy Policy</a></li>
-                <li><a class="text-white" href="pricing.html">Pricing</a></li>
-                <li><a class="text-white" href="faq.html">Faq</a></li>
-              </ul>
-            </div>
-          </div>
-          <div class="col-sm-6 col-lg-4">
-            <h5 class="text-white mb-2 mb-sm-4">Contact Us</h5>
-            <p class="text-white">Helped thousands of clients to find the right property for their needs.</p>
-            <div class="footer-contact-info">
-              <div class="contact-address mt-4">
-                <div class="contact-item">
-                  <i class="fas fa-map-marker-alt"></i>
-                  <p class="ml-3 mb-0 text-white">6580 Allison Turnpike Creminfort, AL 32808-4509</p>
-                </div>
-                <div class="contact-item">
-                  <i class="fas fa-microphone-alt"></i>
-                  <p class="mb-0 font-weight-bold ml-3"><a class="text-white" href="#">+(123) 456-7890</a></p>
-                </div>
-                <div class="contact-item mb-0">
-                  <i class="fas fa-headset"></i>
-                  <a class="text-white ml-3 text-white" href="#">letstalk@academic.com</a>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="footer-bottom bg-dark py-4">
-        <div class="container">
-          <div class="row align-items-center">
-            <div class="col-lg-12 text-center">
-              <p class="mb-0 text-white">©Copyright 2020 <a href="index-2.html">academic</a> All Rights Reserved</p>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
-    <!--=================================
-    Footer-->
-
-    <!--=================================
-    Back To Top-->
-    <div id="back-to-top" class="back-to-top">up</div>
-    <!--=================================
-    Back To Top-->
-
-    <!--=================================
-    Javascript -->
-
-    <!-- JS Global Compulsory (Do not remove)-->
-    <script src="js/jquery-3.5.1.min.js"></script>
-    <script src="js/popper/popper.min.js"></script>
-    <script src="js/bootstrap/bootstrap.min.js"></script>
-
-    <!-- Page JS Implementing Plugins (Remove the plugin script here if site does not use that feature)-->
-    <script src="js/jquery.appear.js"></script>
-
-    <!-- Template Scripts (Do not remove)-->
-    <script src="js/custom.js"></script>
-
-  </body>
-
-</html>
