@@ -60,26 +60,27 @@ Form -->
             <div class="row">
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="form-group mb-0">
-                        <label>Full Name</label>
-                        <input class="form-control" type="text" id="name" placeholder="Your Name">
+                        <label>Nama Lengkap</label>
+                        <input class="form-control" type="text" id="name" placeholder="Masukan Nama Lengkap">
                         <i class="far fa-user"></i>
                     </div>
                 </div>
                 <div class="col-md-4 mb-4 mb-md-0">
                     <div class="form-group select-border mb-0">
-                        <label>Your Courses</label>
+                        <label>Jurusan</label>
                         <select class="form-control basic-select">
-                            <option value="1" selected="selected">Please Choose</option>
-                            <option value="2">Electrical Engineering</option>
-                            <option value="3">Computer Science</option>
-                            <option value="4">Biological Sciences</option>
-                            <option value="4">Masters in Accounting</option>
+                            <option value="1" selected="selected">Desain Komunikasi Visual (DKV)</option>
+                            <option value="2">Teknik Komputer Dan Jaringan (TKJ)</option>
+                            <option value="3">Teknik Elektronika Industri (TEI)</option>
+                            <option value="4">Teknik Instalasi Tenaga Listrik (TITL)</option>
+                            <option value="4">Teknik Pendingin Tata Udara (TPTU)</option>
+                            <option value="4">Teknik dan Bisnis Sepeda Motor (TBSM)</option>
                         </select>
                     </div>
                 </div>
                 <div class="col-md-4 align-self-center">
                     <div class="course-serach">
-                        <a class="btn btn-dark btn-block mt-md-4" href="#">Search Course</a>
+                        <a class="btn btn-dark btn-block mt-md-4" href="#">Search</a>
                     </div>
                 </div>
             </div>
@@ -135,7 +136,7 @@ Counter -->
                         <i class="flaticon-team-1"></i>
                     </div>
                     <div class="counter-content">
-                        <span class="timer" data-to="1790" data-speed="10000">1790</span>
+                        <span class="timer" data-to="1709" data-speed="10000">1709</span>
                         <label>Satisfied Students</label>
                     </div>
                 </div>

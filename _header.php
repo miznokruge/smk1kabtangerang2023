@@ -9,7 +9,7 @@ date_default_timezone_set("Asia/Jakarta");
     <meta name="description" content="Academic - Education, University and College Template" />
     <meta name="author" content="potenzaglobalsolutions.com" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <title>SMK pgri</title>
+    <title>SMK NEGERI 1 KAB TANGERANG</title>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="images/favsmk.ico" />
@@ -79,7 +79,7 @@ date_default_timezone_set("Asia/Jakarta");
               <div class="d-lg-flex align-items-center">
                 <!-- logo -->
                 <a class="navbar-brand logo" href="index-2.html">
-                  <img src="images/logosmkn1.jpeg" alt="Logo">
+                  <img src="images/logosmkn1.jpeg" alt="logo" height="40" weight="40">
                 </a>
                 <nav class="navbar navbar-expand-lg">
 
