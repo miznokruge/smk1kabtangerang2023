@@ -12,7 +12,7 @@ date_default_timezone_set("Asia/Jakarta");
     <title>SMK NEGERI 1 KAB TANGERANG</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favsmk.png" />
+    <link rel="shortcut icon" href="images/favsmk.ico" />
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200&amp;display=swap" rel="stylesheet">
 
