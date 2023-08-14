@@ -15,7 +15,7 @@ Banner -->
                                 <div class="animated" data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.25s">
                                     <h1 class="animated text-white mb-4" data-swiper-animation="fadeInUp" data-duration="1.5s" data-delay="0.25s">Pendidikan Luar Biasa. Nilai Luar Biasa.</h1>
                                     <div class="animated text-white px-lg-5" data-swiper-animation="fadeInUp" data-duration="2.5s" data-delay="0.25s">
-                                        <p class="d-none d-sm-block">The first thing to remember about success is that it is a process nothing more, nothing less. There is really no magic to it and it’s not reserved only for a select few people.</p>
+                                        <p class="d-none d-sm-block">Hal pertama yang harus diingat tentang kesuksesan adalah bahwa itu adalah sebuah proses, tidak lebih, tidak kurang. Benar-benar tidak ada keajaiban untuk itu dan itu tidak hanya diperuntukkan bagi beberapa orang terpilih.</p>
                                     </div>
                                     <a href="#" class="animated4 btn btn-white mt-4 mr-1 mr-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Read More<span></span></a>
                                     <a href="#" class="animated4 btn btn-primary mt-4 ml-1 ml-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Learn More<span></span></a>
