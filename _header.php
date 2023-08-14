@@ -154,7 +154,7 @@ date_default_timezone_set("Asia/Jakarta");
                       </ul>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="contact-us.html">Contact Us</a>
+                      <a class="nav-link" href="contact-us.html">Hubungi Kami</a>
                     </li>
                   </ul>
                 </div>
