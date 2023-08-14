@@ -81,7 +81,7 @@ date_default_timezone_set("Asia/Jakarta");
               <div class="d-lg-flex align-items-center">
                 <!-- logo -->
                 <a class="navbar-brand logo" href="index-2.html">
-                  <img src="images/logo.png" alt="Logo">
+                  <img src="images/logosmkn1.jpeg" alt="Logo">
                 </a>
                 <nav class="navbar navbar-expand-lg">
 
