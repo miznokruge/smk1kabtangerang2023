@@ -111,7 +111,7 @@ date_default_timezone_set("Asia/Jakarta");
                       </a>
                       <!-- Dropdown Menu -->
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="about-us.html">About Us</a></li>
+                        <li><a class="dropdown-item" href="about-us.html">Tentang kami</a></li>
                         <li><a class="dropdown-item" href="teachers.html">Teachers</a></li>
                         <li><a class="dropdown-item" href="teachers-single.html">Teacher Single</a></li>
                         <li><a class="dropdown-item" href="gallery.html">Gallery</a></li>
