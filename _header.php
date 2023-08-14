@@ -12,7 +12,7 @@ date_default_timezone_set("Asia/Jakarta");
     <title>SMK NEGERI 1 KAB TANGERANG</title>
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="images/favicon.ico" />
+    <link rel="shortcut icon" href="images/favsmk.png" />
     <!-- Google Font -->
     <link href="https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,200&amp;display=swap" rel="stylesheet">
 
@@ -42,10 +42,10 @@ date_default_timezone_set("Asia/Jakarta");
             <div class="col-sm-12">
               <div class="d-none d-lg-flex align-items-center text-center">
                 <div class="mr-3 d-inline-block">
-                  <a class="text-white" href="mailto:gethelp@university.com"><i class="far fa-envelope mr-2"></i><span>Email:</span> info@academic.com</a>
+                  <a class="text-white" href="mailto:gethelp@university.com"><i class="far fa-envelope mr-2"></i><span>Email:</span> admin@smkn1kabtangerang.sch.id</a>
                 </div>
                 <div class="mr-auto d-inline-block">
-                  <a class="text-white" href="mailto:gethelp@university.com"><i class="fas fa-phone-alt mr-2"></i><span>Call</span> +1 (818) 89 89 567</a>
+                  <a class="text-white" href="mailto:gethelp@university.com"><i class="fas fa-phone-alt mr-2"></i><span>Call</span> +62 854 8646 4686</a>
                 </div>
                 <div class="mr-3 d-inline-block">
                   <a class="text-white" href="mailto:gethelp@university.com"><?php echo date("Y-m-d H:i:s")?></a>
@@ -79,7 +79,7 @@ date_default_timezone_set("Asia/Jakarta");
               <div class="d-lg-flex align-items-center">
                 <!-- logo -->
                 <a class="navbar-brand logo" href="index-2.html">
-                  <img src="images/logo.png" alt="Logo">
+                  <img src="images/logosmkn1.jpeg" alt="Logo">
                 </a>
                 <nav class="navbar navbar-expand-lg">
 
@@ -109,7 +109,7 @@ date_default_timezone_set("Asia/Jakarta");
                       </a>
                       <!-- Dropdown Menu -->
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="about-us.html">About Us</a></li>
+                        <li><a class="dropdown-item" href="about-us.html">Tentang kami</a></li>
                         <li><a class="dropdown-item" href="teachers.html">Teachers</a></li>
                         <li><a class="dropdown-item" href="teachers-single.html">Teacher Single</a></li>
                         <li><a class="dropdown-item" href="gallery.html">Gallery</a></li>
@@ -152,7 +152,7 @@ date_default_timezone_set("Asia/Jakarta");
                       </ul>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="contact-us.html">Contact Us</a>
+                      <a class="nav-link" href="contact-us.html">Hubungi Kami</a>
                     </li>
                   </ul>
                 </div>
