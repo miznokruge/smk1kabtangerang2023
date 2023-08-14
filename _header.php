@@ -47,7 +47,7 @@ date_default_timezone_set("Asia/Jakarta");
                   <a class="text-white" href="mailto:gethelp@university.com"><i class="far fa-envelope mr-2"></i><span>Email:</span> info@academic.com</a>
                 </div>
                 <div class="mr-auto d-inline-block">
-                  <a class="text-white" href="mailto:gethelp@university.com"><i class="fas fa-phone-alt mr-2"></i><span>Call</span> +1 (818) 89 89 567</a>
+                  <a class="text-white" href="mailto:gethelp@university.com"><i class="fas fa-phone-alt mr-2"></i><span>Call</span> +62 854 8646 4686</a>
                 </div>
                 <div class="mr-3 d-inline-block">
                   <a class="text-white" href="mailto:gethelp@university.com"><?php echo date("Y-m-d H:i:s")?></a>
