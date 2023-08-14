@@ -7,7 +7,7 @@ Banner -->
     <div id="main-slider" class="swiper-container h-800 h-lg-700 h-md-600 h-sm-400">
         <div class="swiper-wrapper">
             <!-- Swiper Slider 1-->
-            <div class="swiper-slide align-items-center d-flex bg-overlay-black-40" style="background-image: url(images/bg/nahida.png); background-size: cover; background-position: center center;">
+            <div class="swiper-slide align-items-center d-flex bg-overlay-black-40" style="background-image: url(images/bg/01.jpg); background-size: cover; background-position: center center;">
                 <div class="swipeinner container">
                     <div class="row justify-content-center text-center">
                         <div class="col-lg-10 col-md-12">
