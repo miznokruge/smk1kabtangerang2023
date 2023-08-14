@@ -47,7 +47,7 @@ date_default_timezone_set("Asia/Jakarta");
                   <a class="text-white" href="mailto:gethelp@university.com"><i class="far fa-envelope mr-2"></i><span>Email:</span> admin@smkn1kabtangerang.sch.id</a>
                 </div>
                 <div class="mr-auto d-inline-block">
-                  <a class="text-white" href="mailto:gethelp@university.com"><i class="fas fa-phone-alt mr-2"></i><span>Call</span> +1 (818) 89 89 567</a>
+                  <a class="text-white" href="mailto:gethelp@university.com"><i class="fas fa-phone-alt mr-2"></i><span>Call</span> +62 854 8646 4686</a>
                 </div>
                 <div class="mr-3 d-inline-block">
                   <a class="text-white" href="mailto:gethelp@university.com"><?php echo date("Y-m-d H:i:s")?></a>
@@ -111,7 +111,7 @@ date_default_timezone_set("Asia/Jakarta");
                       </a>
                       <!-- Dropdown Menu -->
                       <ul class="dropdown-menu">
-                        <li><a class="dropdown-item" href="about-us.html">About Us</a></li>
+                        <li><a class="dropdown-item" href="about-us.html">Tentang kami</a></li>
                         <li><a class="dropdown-item" href="teachers.html">Teachers</a></li>
                         <li><a class="dropdown-item" href="teachers-single.html">Teacher Single</a></li>
                         <li><a class="dropdown-item" href="gallery.html">Gallery</a></li>
@@ -154,7 +154,7 @@ date_default_timezone_set("Asia/Jakarta");
                       </ul>
                     </li>
                     <li class="nav-item">
-                      <a class="nav-link" href="contact-us.html">Contact Us</a>
+                      <a class="nav-link" href="contact-us.html">Hubungi Kami</a>
                     </li>
                   </ul>
                 </div>
