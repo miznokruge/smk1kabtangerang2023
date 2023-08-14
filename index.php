@@ -13,7 +13,7 @@ Banner -->
                         <div class="col-lg-10 col-md-12">
                             <div class="slider-1">
                                 <div class="animated" data-swiper-animation="fadeInUp" data-duration="1s" data-delay="0.25s">
-                                    <h1 class="animated text-white mb-4" data-swiper-animation="fadeInUp" data-duration="1.5s" data-delay="0.25s">Exceptional Education. Exceptional Value.</h1>
+                                    <h1 class="animated text-white mb-4" data-swiper-animation="fadeInUp" data-duration="1.5s" data-delay="0.25s">Pendidikan Luar Biasa. Nilai Luar Biasa.</h1>
                                     <div class="animated text-white px-lg-5" data-swiper-animation="fadeInUp" data-duration="2.5s" data-delay="0.25s">
                                         <p class="d-none d-sm-block">The first thing to remember about success is that it is a process nothing more, nothing less. There is really no magic to it and it’s not reserved only for a select few people.</p>
                                     </div>
