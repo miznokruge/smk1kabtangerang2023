@@ -53,13 +53,7 @@ date_default_timezone_set("Asia/Jakarta");
                 <div class="social-icon">
                   <ul class="social-icon">
                     <li>
-                      <a href="#"><i class="fab fa-facebook-f"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-twitter"></i></a>
-                    </li>
-                    <li>
-                      <a href="#"><i class="fab fa-linkedin-in"></i></a>
+                      <a href="https://youtube.com/@SMKN1KabTangerangOfficials"><i class="fab fa-youtube"></i></a>
                     </li>
                     <li>
                       <a href="https://instagram.com/smkn1kabtang.officials?igshid=MzRlODBiNWFlZA=="><i class="fab fa-instagram"></i></a>
