@@ -33,7 +33,6 @@ date_default_timezone_set("Asia/Jakarta");
     </head>
     <body>
 
-    <!--=================================
     Header -->
     <header class="header header-sticky">
       <div class="topbar bg-dark py-3 d-none d-lg-flex">
@@ -52,7 +51,7 @@ date_default_timezone_set("Asia/Jakarta");
                 </div>
                 <div class="social-icon">
                   <ul class="social-icon">
-                      <li>
+                    <li>
                       <a href="https://youtube.com/@SMKN1KabTangerangOfficials"><i class="fab fa-youtube"></i></a>
                     </li>
                     <li>
@@ -60,6 +59,10 @@ date_default_timezone_set("Asia/Jakarta");
                     </li>
                   </ul>
                 </div>
+
+
+                            </div>
+                        </div>
                     </div>
                 </div>
             </div>
