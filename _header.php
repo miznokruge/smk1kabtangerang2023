@@ -62,7 +62,7 @@ date_default_timezone_set("Asia/Jakarta");
                       <a href="#"><i class="fab fa-linkedin-in"></i></a>
                     </li>
                     <li>
-                      <a href="#"><i class="fab fa-instagram"></i></a>
+                      <a href="https://instagram.com/smkn1kabtang.officials?igshid=MzRlODBiNWFlZA=="><i class="fab fa-instagram"></i></a>
                     </li>
                   </ul>
                 </div>
