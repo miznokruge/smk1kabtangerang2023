@@ -89,11 +89,7 @@ date_default_timezone_set("Asia/Jakarta");
                     <li class="nav-item dropdown active">
                       <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home<i class="fas fa-chevron-down fa-xs"></i></a>
                       <!-- Dropdown Menu -->
-                        <ul class="dropdown-menu">
-                          <li class="active"><a class="dropdown-item" href="index.php">Home 01</a></li>
-                          <li><a class="dropdown-item" href="index-02.html">Home 02</a></li>
-                          <li><a class="dropdown-item" href="index-03.html">Home 03</a></li>
-                        </ul>
+                        
                     </li>
                     <li class="nav-item">
                       <a class="nav-link" href="about.php">About Us</a>
