@@ -83,7 +83,11 @@ date_default_timezone_set("Asia/Jakarta");
               <div class="d-lg-flex align-items-center">
                 <!-- logo -->
                 <a class="navbar-brand logo" href="index-2.html">
+<<<<<<< HEAD
+                  <img src="images/logosmkn1.jpeg" alt="logo" height="40" weight="40">
+=======
                   <img src="images/smkn1kab.jpg" alt="Logo">
+>>>>>>> 6095712345e8d76378075c4758322882a40652b1
                 </a>
                 <nav class="navbar navbar-expand-lg">
 
@@ -151,7 +155,7 @@ date_default_timezone_set("Asia/Jakarta");
                       </a>
                       <!-- Dropdown Menu -->
                       <ul class="dropdown-menu">
-                          <li><a class="dropdown-item" href="blog.html">Blog</a></li>
+                          <li><a class="dropdown-item" href="blog.php">Blog</a></li>
                           <li><a class="dropdown-item" href="blog-detail.html">Blog Detail</a></li>
                       </ul>
                     </li>
