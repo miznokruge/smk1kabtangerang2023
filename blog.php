@@ -8,12 +8,12 @@
         <div class="row d-flex justify-content-center">
           <div class="col-md-12">
             <div class="text-center">
-              <h1 class="text-white">Blog</h1>
+              <h1 class="text-white">SMKN1 KAB TANGERANG</h1>
             </div>
             <div class="d-flex justify-content-center ">
               <ol class="breadcrumb mb-0 p-0">
-              <li class="breadcrumb-item"><a href="index-2.html">Home</a></li>
-              <li class="breadcrumb-item active"><span>Blog</span></li>
+              <li class="breadcrumb-item"><a href="index-2.html"></a></li>
+              <li class="breadcrumb-item active"><span></span></li>
             </ol>
             </div>
           </div>
@@ -28,11 +28,20 @@
     <section class="space-ptb position-relative">
       <div class="container">
         <div class="row justify-content-center">
-          <div class="col-lg-7 col-md-10 text-center">
+            <div class="col-lg-12 col-md-10 text-center"></div>
             <!-- Section Title START -->
             <div class="section-title">
-              <h2 class="title">Artikel Terbaru</h2>
-              <p class="mb-0">Check out our latest blog posts, articles, client success stories and essential announcement</p>
+                <center><h2 class="title">Tentang SMKN1 Kab Tangerang</h2></center>
+              <p class="mb-0">Sekolah Menengah Kejuruan Negeri 1 Kabupaten Tangerang, merupakan salah satu Sekolah Menengah Kejuruan Negeri yang ada di Provinsi BANTEN, Indonesia. Berbeda dengan SMK pada umumnya,SMKN1 merupakan sekolah berbasis ketarunaan,yang didirikan tahun</p>
+            </div>
+                <section class="space-ptb position-relative">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="col-lg-12 col-md-10 text-center">
+            <!-- Section Title START -->
+            <div class="section-title">
+              <h2 class="title">SEJARAH</h2>
+              <p class="mb-0">SMKN 1 Kabupaten Tangerang didirikan tahun 1997. Awalnya SMKN 1 Kabupaten Tangerang dikenal dengan nama SMKN 1 Cikupa. Ini bisa dilihat dari stemple yang digunakan dalam korespondensi resmi, juga bisa dilihat dari kop surat yang digunakan dalam berkorespondensi dengan para pihak.  Karena memang SMKN 1 Kabupaten Tangerang awalnya berada di wilayah kecamatan Cikupa. </p>
             </div>
             <!-- Section Title END -->
           </div>

@@ -134,12 +134,12 @@ date_default_timezone_set("Asia/Jakarta");
                                                 </ul>
                                             </li>
                                             <li class="nav-item dropdown">
-                                                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Blog<i class="fas fa-chevron-down fa-xs"></i>
+                                                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Profil<i class="fas fa-chevron-down fa-xs"></i>
                                                 </a>
                                                 <!-- Dropdown Menu -->
                                                 <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="blog.php">Blog</a></li>
-                                                    <li><a class="dropdown-item" href="blog-detail.html">Blog Detail</a></li>
+                                                    <li><a class="dropdown-item" href="blog.php">Tentang SMKN1 KabTang</a></li>
+                                                    <li><a class="dropdown-item" href="blog-detail.html">Visi Misi</a></li>
                                                 </ul>
                                             </li>
                                             <li class="nav-item">
