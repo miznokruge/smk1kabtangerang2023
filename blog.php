@@ -31,7 +31,7 @@
           <div class="col-lg-7 col-md-10 text-center">
             <!-- Section Title START -->
             <div class="section-title">
-              <h2 class="title">Latest Articles</h2>
+              <h2 class="title">Artikel Terbaru</h2>
               <p class="mb-0">Check out our latest blog posts, articles, client success stories and essential announcement</p>
             </div>
             <!-- Section Title END -->
