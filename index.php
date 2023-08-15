@@ -17,8 +17,8 @@ Banner -->
                                     <div class="animated text-white px-lg-5" data-swiper-animation="fadeInUp" data-duration="2.5s" data-delay="0.25s">
                                         <p class="d-none d-sm-block">The first thing to remember about success is that it is a process nothing more, nothing less. There is really no magic to it and it’s not reserved only for a select few people.</p>
                                     </div>
-                                    <a href="#" class="animated4 btn btn-white mt-4 mr-1 mr-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Read More<span></span></a>
-                                    <a href="#" class="animated4 btn btn-primary mt-4 ml-1 ml-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Learn More<span></span></a>
+                                    <a href="#" class="animated4 btn btn-white mt-4 mr-1 mr-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Baca Lebih Lanjut<span></span></a>
+                                    <a href="#" class="animated4 btn btn-primary mt-4 ml-1 ml-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Pelajari Lebih Lanjut<span></span></a>
                                 </div>
                             </div>
                         </div>
