@@ -138,7 +138,7 @@ date_default_timezone_set("Asia/Jakarta");
                                                 </a>
                                                 <!-- Dropdown Menu -->
                                                 <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="blog.html">Blog</a></li>
+                                                    <li><a class="dropdown-item" href="blog.php">Blog</a></li>
                                                     <li><a class="dropdown-item" href="blog-detail.html">Blog Detail</a></li>
                                                 </ul>
                                             </li>
