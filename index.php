@@ -17,8 +17,8 @@ Banner -->
                                     <div class="animated text-white px-lg-5" data-swiper-animation="fadeInUp" data-duration="2.5s" data-delay="0.25s">
                                         <p class="d-none d-sm-block">Hal pertama yang harus diingat tentang kesuksesan adalah bahwa itu adalah sebuah proses, tidak lebih, tidak kurang. Benar-benar tidak ada keajaiban untuk itu dan itu tidak hanya diperuntukkan bagi beberapa orang terpilih.</p>
                                     </div>
-                                    <a href="#" class="animated4 btn btn-white mt-4 mr-1 mr-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Read More<span></span></a>
-                                    <a href="#" class="animated4 btn btn-primary mt-4 ml-1 ml-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Learn More<span></span></a>
+                                    <a href="#" class="animated4 btn btn-white mt-4 mr-1 mr-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Baca Lebih Lanjut<span></span></a>
+                                    <a href="#" class="animated4 btn btn-primary mt-4 ml-1 ml-sm-2" data-swiper-animation="fadeInUp" data-duration="3.5s" data-delay="0.25s">Pelajari Lebih Lanjut<span></span></a>
                                 </div>
                             </div>
                         </div>
