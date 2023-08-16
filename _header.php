@@ -88,13 +88,9 @@ date_default_timezone_set("Asia/Jakarta");
                                     <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                                         <ul class="navbar-nav">
                                             <li class="nav-item dropdown active">
-                                                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home<i class="fas fa-chevron-down fa-xs"></i></a>
+                                                <a class="nav-link dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Home</a>
                                                 <!-- Dropdown Menu -->
-                                                <ul class="dropdown-menu">
-                                                    <li class="active"><a class="dropdown-item" href="index.php">Home 01</a></li>
-                                                    <li><a class="dropdown-item" href="index-02.html">Home 02</a></li>
-                                                    <li><a class="dropdown-item" href="index-03.html">Home 03</a></li>
-                                                </ul>
+                                                
                                             </li>
                                             <li class="nav-item">
                                                 <a class="nav-link" href="about.php">Tentang Kami</a>
@@ -124,12 +120,12 @@ date_default_timezone_set("Asia/Jakarta");
                                                 </ul>
                                             </li>
                                             <li class="nav-item dropdown">
-                                                <a class="nav-link  dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Acara<i class="fas fa-chevron-down fa-xs"></i>
+                                                <a class="nav-link  dropdown-toggle" href="#" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Kegiatan Sekolah<i class="fas fa-chevron-down fa-xs"></i>
                                                 </a>
                                                 <!-- Dropdown Menu -->
                                                 <ul class="dropdown-menu">
-                                                    <li><a class="dropdown-item" href="events-list.html">List Acara</a></li>
-                                                    <li><a class="dropdown-item" href="events-grid.html">Kisi Acara</a></li>
+                                                    <li><a class="dropdown-item" href="events-list.html">Ekstarkulikuler</a></li>
+                                                    <li><a class="dropdown-item" href="events-grid.html">Agenda Acara</a></li>
                                                     <li><a class="dropdown-item" href="event-detail.html">Detail Acara</a></li>
                                                 </ul>
                                             </li>
